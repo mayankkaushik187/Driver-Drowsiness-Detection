@@ -5,7 +5,7 @@ import numpy as np
 from pygame import mixer
 import time
 
-
+#initialising the mixer
 mixer.init()
 sound = mixer.Sound('alarm.wav')
 
